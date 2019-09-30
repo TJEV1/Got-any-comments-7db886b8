@@ -15,3 +15,7 @@
   textarea {
     border: solid red;
   }
+
+ textarea:focus {
+    border: green solid;
+ }
